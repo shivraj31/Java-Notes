@@ -1,0 +1,28 @@
+C Edge Technology 
+explain project 
+project  architecture 
+roles and responsibilities 
+challenges
+lazy loading eager loading
+session
+session factory
+singleton 
+singleton program
+java 8 features 
+java 8 features used in your project 
+optional class
+stream program using distinct and sort method
+named query 
+state of object in hibernate 
+diff betn throw and throws 
+how you handle exception in your project 
+diff session and session factory
+@configuration 
+concurrent modification exception 
+fourth highest salary
+composite key
+join
+starter dependancy used in your project
+exception handling
+collection  program
+write a query to print recent joined employee from employee

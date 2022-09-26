@@ -1,0 +1,25 @@
+Diff ways to create object 
+how to achieve multithreading explain the most convenient way 
+dependency injection 
+aggregation and composition relation 
+is hashmap hashset serialized 
+diff arraylist and vector
+benefits of spring boot over spring
+final ,finally and finalize
+garbage collection 
+y is spring called loosely coupled 
+@autowired
+annotations used in ur project
+type of dependency Injection 
+benefits of IOC
+types of dependency injection 
+aspects 
+cutting
+flow of project 
+design pattern used In project 
+aliases
+actuator
+auto wiring mode (types)
+dynamic dispatche
+how to connect spring with database
+annotations used in exception class

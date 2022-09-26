@@ -1,0 +1,70 @@
+UST Global: Technical Round
+
+1)String str="Hi this is java";
+// count characters in the string
+	int count=0;
+	for(int i=0;i<str.length();i++){
+		if(str.toLowerCase().charAt(i)>='a' && str.toLowerCase().charAt(i)<='z' ){
+			count++;
+		}
+	}
+	System.out.println("Total characters="+count);
+-------------------------------------------------------------------------
+2)//Reverse the position of words in the string 
+	String s[] = str.split(" ");
+	for(int i = s.length-1; i >=0; i--) {
+		System.out.println(s[i]);
+	}
+-----------------------------------------------------------------------
+class A{
+	m1(){
+	}
+}
+--
+class B extends A{
+
+	@override
+	m1(){
+	}
+}
+-------------------
+class Test{
+	pvsm{
+		B b=new A();
+		b.m1();
+	}
+3)//WhAT WILL BE THE OUTPUT?
+//ans-Type casting will be needed, ClassCastException
+
+
+A a=new B();
+a.m1;
+4)//WhAT WILL BE THE OUTPUT?
+ans-B class method.
+}
+}
+-----------------------------------------------------------------
+
+Questions:
+5)what tech stack have you worked on:
+	for froentend- Angular
+	backend- Java
+	Database- MySQL
+
+6)microservices architecture
+7)how do microservices communicate with each other
+8)what if a microservice fails while communicating
+9)put vs post:
+			put						post
+	1) It is used to update data from db		1) It is used to store the data into db
+	2) We use update query in put			2) use create query
+
+10) Java 8 features
+11) optional class:
+	It is used to deals with null pointer exeption
+	Optional<String> obj=Optional.ofNullable(field);
+	if(obj.isPresent()){
+		return "----";
+	}else{
+		syso("Empty");
+	}

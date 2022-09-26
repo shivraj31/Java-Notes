@@ -1,0 +1,16 @@
+Company -simplify3x
+1.explain project & modules
+2.your role in project
+3.postman vs swagger which is better
+4.how you connect different modules in your project
+5.arrrylist vs linkedlist
+6.collection vs collections
+7.applet class 
+8.celling
+9.why spring boot
+10.which data structure we are using for removing duplicate
+11.live reload
+Programs
+1.Reverse string
+2.remove duplicate from array list
+3.create three exception and handle it using only throw (not use try catch or throws)

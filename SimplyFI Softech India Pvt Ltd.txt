@@ -1,0 +1,17 @@
+Company - SimplyFI Softech India Pvt Ltd 
+
+Coding Round (like L1)
+
+Write a program as per below image
+
+Share its GitHub link
+
+1 hour duration
+
+(Read the document image carefully)
+
+(Time and Space complexities are given )
+
+Q. Print all uniq permitutations of the given string
+Input ABC
+O/P : ABC, ACB, BAC, BCA, CBA. CAB

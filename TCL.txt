@@ -1,0 +1,23 @@
+Company name - TCL L1  30minits
+
+1 Where u used encapsulation in your project
+2 Use of method overriding in project
+3 What is use of static
+3 What if we put duplicate keys in hashmap?
+5 Use of java 8 funtions
+6 What is use of lambda expression
+7 What is use of functional interface
+9 stream api 
+8 Annotations used in spring boot
+Use of @configuration 
+9 difference between @component and @component scan
+10 difference between @controller and @restcontroller
+11 what is @responsebody 
+12 how u accessing database in your project using jpa or hibernate
+13 scope of beans
+14 use of application properties file
+15 singleton
+16 suppose one entity how to save in data base using jpa data. Code in repository, how u save.
+17 what is profile in spring boot.
+18 role in current project.
+19 there are changes in configuration ( application properties) for prod test and dev then how u handle

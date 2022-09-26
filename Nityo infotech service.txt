@@ -1,0 +1,40 @@
+Nityo Infotech service 16/9/202 L1 and L2
+
+1 what is failfast and failsafe iterator
+2 difference between ArrayList and vector
+3 difference between HashMap and Hashtable
+4 what are the keyword 
+5 what is super keyword
+6 what is this keyword
+7 what is Collection 
+8 what is exception 
+9 what is runtime exceptio and copile time wxception
+10 difference between abstract class and Interface
+11 can we overload main method
+12 what is static 
+13 what are access specifire
+14 what is composition 
+15 what is agregation
+16 can we have private variable in abstract class
+17 what is method overloading and overriding
+18 explain the oops concept
+19 how to create thread
+20 difference between sleep and wait method
+21 what is synchronisation
+22 what is the wrapper class
+23 where you use wrapper class
+24 reason to use wrapper class
+25 what is the scope of protected
+26 if i use protected to a method do i need to inherit the class and make object
+27 why multiple inheritence is not supported in java
+28 what is final keyword
+29 what is object cloning
+30 what is multithreading 
+31 what is @springbootapplication
+32 @springbootapplication consist of  which three annotation 
+33 how to connect spring application to database
+34 what is @requestMapping
+35 what is difference between @RestController and @Controller annotation
+36 If i use @RestController annotaion do i need to write @ResponseBody
+37 what are four methods of spring boot application
+38 Difference between Post and get method

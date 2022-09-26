@@ -1,0 +1,50 @@
+Aumni Techworks Pune
+45min
+Introduce u r self
+1.git command:
+	1) git branch - It is used to check exsting branches
+	2) git branch <branch_name> - Used to create new branch
+	3) git commit - It is used to save the recent operation
+	4) git checkout <branch_name>- It is used to switch branches
+	5) git branch -b <new_branch_name>- It used to create new branch and immidiatly switch that branch
+	6) git push origin branch-name- It is used to upload file/data on github repo.
+	7) git pull origin branch_name- It is used to get file/data from githum repository 
+	8) git status- It is used to check current status of files
+	9) git branch -d branch_name- Used to delete branch
+
+2.java 8 features:
+	Functional interface, Lambda Expression, static/default method, optional class, forEach(),StringJoiner
+
+3. Comparable x Comparator:
+			Comparable					Comparator
+		1) Used to naturel sorting order		1) Used to customized sorting order
+		2) present in java.lang				2) java.util
+		3) provide compareTo(Obj)			3) provide compare(o,o1) & equals()
+
+4.code for list out numbers starts with 1 as like 10,17,100 from list
+Using stream api
+	Solved..
+
+5. Spring boot features:
+	1) It is avoid the heavy use of configuration files(cfg.xml) becoz everything is auto configured.
+	2) It i provied embedded apache tomcat server, no need to add manually
+	3) Deployement is easy, jar and war files can be easily deployed
+	4) Using SB framework we can develop application is very fast
+	
+6.IOC container:
+	Inversion of control
+	1) It is used to read cfg.xml file
+	2) Used to create object of spring bean class and configured that object.
+	3) used to maintain life cycle of pojo class
+	4) It is used to pass the required input from xml file to pojo class
+
+7. Spring annotations:
+	@Required, @Controller, SpringBootApplication, etc etc
+
+8.Design end to rest api for any entity class all layers: Done
+
+9.MIcroservices how will implement 
+10.security: we need to write some code in application.properties file it means set username and password 
+	spring.security.user.username= 
+	spring.security.user.password=
+add dependency <artifactId>spring-boot-starter-security</artifactId>

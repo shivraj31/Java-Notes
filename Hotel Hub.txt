@@ -1,0 +1,24 @@
+20/09/2022. Hotel Hub - L1
+
+1. Introduction
+2. Project
+3. Oops
+4. Types of inheritance
+5. Diamond problem
+6. Collection
+7. List vs set
+8. Internal working of Hashmap
+9. can we achieve overloading based on return type
+10. Arraylist vs linkedlist
+11. Firstlevelcache and second level cache
+12. Difference between spring and spring boot
+13. Dependency injection
+14. JDBC
+15. Java 8 features
+16. Life cycle of spring bean
+17. Second highest salary from table
+
+Programs - 
+1. Swap 2 numbers without third variable
+2. Sum of n numbers. What is complexity. How to reduce 
+3. Array of 1 to 10 and wanted list of squares of only even numbers using stream

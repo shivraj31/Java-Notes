@@ -1,0 +1,36 @@
+suppose if you have an query and that query you write again an again or multiple times so just that query
+write into store procedure and just call store procedure
+how?
+
+create procedure `procedure_name`(in/out column datatype)
+begin
+	sql statement;
+
+end
+
+------>
+call `procedure_name`("add field which you declare in procedure")
+--------------------------
+
+//for getting highest 2nd salary
+select max(balance) from account where balance < (select max(balance) from account);
+select balance from account order by balance desc limit 1,1;
+select max(balance) from account where balance < (select balance from account order by balance desc limit 1);
+
+----------------------------
+		Comparable						Comparator
+	1) It is used natural sording ording			1) it is used customized sorting order
+	2) It is provide only one method named as,		2) It provide two method named,
+		compareTo(Obj o){}					compare(Obj1 o, Obj2 o2),
+									equals();
+	3) present into java.lang				3) java.util
+
+---------------------------------------
+Java build tool:
+1) It is programs that automates the creation of executable applications from source code
+2) It is programs that automates the process of compiling, assembling & deplyoing software.
+
+----------------------
+What are the types of thread?
+1) User thread
+2) Damon thread

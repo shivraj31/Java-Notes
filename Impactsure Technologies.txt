@@ -1,0 +1,17 @@
+Impactsure Technologies, 30 min, Round 1
+
+1.Introuduce yourself, work experience .
+2.Which Technologies have  you worked on . Also languages used?
+3.Role in the company.
+4.Explain project and your role in the same .
+Core java-
+5. Exception handling how to handle, finally block with example
+6. String buffer vs string builder
+7. Inheritance - types and examples
+8. Why multiple is not allowed
+9. Wrapper class
+10. Code on armstrong number for the given number.
+Springboot-
+11.Features of springboot
+12. Whar are microservices
+13. Annotations used in springboot

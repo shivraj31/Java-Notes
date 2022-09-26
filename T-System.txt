@@ -1,0 +1,11 @@
+Company :- T-Systems
+1.	Introduce yourself and explain project
+2.	Java pillars and real time examples and why ambiguity in multiple inheritance how to resolve this 
+3.	What is multithreading 
+4.	Java 8 features
+5.	Write stream api for those employee have more than 10,000 salary 
+6.	Spring annotation
+7.	Rest api annotation 
+8.	Repository layer
+9.	Write query for 2 nd highest salary
+10.	Diference between wait and sleep method

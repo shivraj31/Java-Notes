@@ -1,0 +1,16 @@
+Company name:- HIWI forex
+
+1. Explain your project
+2.How to apply security in project
+3. How to use hibernate template in spring boot
+4.How to activate second level cache in spring boot
+5.Write stored procedure
+6. What is profile
+7. have you use hystrix
+8. how you authenticate an authorised user
+9. JWT authentication flow in your project
+10. CICD Pipeline
+11. many questions from authentication
+12. Have you use microservices in your project
+13. How to consume api in microservices
+13. Load balancer

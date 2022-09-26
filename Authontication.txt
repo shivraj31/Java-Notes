@@ -1,0 +1,30 @@
+Authentication & Authorization:
+	They are two important information security processess that are administrators use to protects 
+	System and information
+
+Aunthentication:
+	It is  use to verifies the identity of user/Service.
+
+Authorization: 
+	It is use to decides their access rights.
+------------------------------------------------
+		Fail Fast 					Fail Safe
+1) If we add, remove and update the collection element	1) It is tries to avoid arises the failure and doesnot throw any 
+	at the time it throws ConcurrentMExe			exection
+2) We cant make changes in collection while		2) We can make changes in collection while iterator iterates over it
+	Iterator iterates over it		
+3) It is perform the operation on original object	3) It is create dummy object and perform the operation on that
+
+----------------
+@PostConstructor
+It is used on methods that needs to be executed after the dependency injectios have done to perform any intialiazation
+-------
+Spring, Maven, Hibernate = 3.1
+sts = 4.9.0
+eclipse= 4.8.0
+postman= 8.0.6
+mysql = 8.0
+apache tomcat = 9.0
+git = 2.32
+jira = 8.13
+logger= 2.14.1

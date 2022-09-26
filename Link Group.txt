@@ -1,0 +1,125 @@
+Company- LINK Group..
+(Interview duration-45 min)
+-java 8 features:
+	1) Functional interface: interface that contains exactly one abstract method is called ...
+				But contains any numbers of static and default methods in interface 
+	2) Lambda expression: It is used to write less coding & represent anonomious function. (para)->{body}
+	3) Static method & Default method in interface: It is used to provide additional functionality for exsting interface.
+		why Static method: It is used to avoid undesired results incase of poor implementation in implementation class.
+	4) Optional Class : It used to deals with null pointer exception
+	5) StringJoiner : It is used to sequence of character is seprated by delimeter(",","-",etc).
+	6) ForEach Method: It used to perform the action on each element one by one.
+
+-What is Functional interface :
+	It contains exactly only one abstract method called as functional interface
+	It can have any number of default & satic methods but only one abstract method.
+
+- whats the use of filter method in stream api
+	Filter() is used to read data from stream and return new stream after transfaring data based on given condition. 
+
+-Oops-live examples  
+	1) Single :	Insurance(Parent) --> HelathInsurance(Child)
+	2) Multilevel: 	Account(Parent) --> CurrentAccount(Child / Parent) again --> SavingAccount(Child)
+	3) Heirachical: Insurance(Parent) --> HealthInsurance(Child)
+					  --> BikeInsurance (Child)
+					  --> CarInsurance(Child)
+	4)Multiple & Hybrid : Is not supported	
+	   Why : Create ambiguty
+	   Suppose we have two parent class A & Class B that contain one same method named as m1(),
+	   and child class test extends A,B and call m1() method, then JVM will not understand which method should be call.
+
+-what is polymorphism :	One entity behaves differently in different cases is known as Polymorphism
+-in-depth questions on polymorphism
+
+-collection framework : 
+-Diff between list and set
+			List					Set
+	1) where duplicates are allowed and 		1) where duplicates are not allowed & 
+		insertion order  is preserved.			insertion order is not preserved
+	2) It has contain ArrayList, Vector and 	2) It has contain hashset, linkedhasset,
+		LinkedList.					treeset
+	3) It has own iterator i.e ListIterator		3) It has iterator
+
+-Internal working of hashmap:
+	In hashmap, Two methods are works hashcode() and equals(), 
+	hascode() is used to generate hascode for every key,equals() is used to check whether the key equal are not.
+	In hashmap, default capacity is 16 of size, when we add object into hashmap using put method the it will first
+	hash(key) method genrates the hascode for that key, then JVM calculate the index for that key by using 
+	index = hash & (n-1), after calculating index then there will be create node for that key,
+	One node contains 4 column for store object data, 1st col contain key, 2nd col contains hashcode, 3rd contains 
+	actual value and 4th will null, above flow will repeating for all objects, but suppose in case JVM calculte index
+	and that index is already contain one node then their will we create linked list between new node and existing node
+	and new node contains data of new key and last column of existing node contain address of newly created node and
+	then attach to it. 
+
+-null insertion in hashmap: It is possible but as key only one time we can null use but as values can use many times
+
+-Exception Overriding concept -practical scenario
+
+-How to write Custom exception -practical scenario
+	1) we need to create one class and that user define class extends with runtimeException class
+	2) Design one parametrized constructor and pass string para.
+	3) then that string para will pass into super(para).
+
+-Hibernate Mapping examples 
+	1) OneToOne: It is Pk from one table that become foreign key  another table.
+			One Person/User has one policy/Transaction
+	2) OneToMany: It is one row from one table that can be mapped multiple row in another table.
+			One User has Many Policies
+	3) ManyToOne: It is multiple row from one table than can be mapped One row in another table
+			Many Employees has One address.
+	4) ManyToMany: It is multiple row in one table that can be mapped multiple row in another table.
+			One user has Many nominee & One nominee has Many user.
+		
+	
+
+-hibernate  annotations:
+	@Entity: It represent current class is entity
+	@Id : It represent specified field as primary key
+	@GeneratedValue: It is used to autoIncrement id by one
+	@Table : It used to create database table automatically no need to create manually into database.
+	@Column : It is used to specify database table column name
+	@required: It is used to set paerticular property of pojo
+	
+Hibernate configuration.xml file
+<hibernate-configuration>
+	<session-factory>
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/Schemaname</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">Password</property>
+
+		<property name="hbm2ddl.auto">create/Update</property>
+		<property name="show_sql">true</property>
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
+		<property mapping="com.pkgname.pojo_name"></property>		
+	</session-factory>
+</hibernate-configuration>
+
+-Why we use springboot framework:
+		
+... Advantages
+-How to change server port 
+-How to exclude embedded server:
+	<dependency>
+    		<exclusions>
+        		<exclusion>
+            			<artifactId>tomcat-embed-el</artifactId>
+            			<groupId>org.apache.tomcat.embed</groupId>
+       			</exclusion>
+        		<exclusion>
+            			<artifactId>tomcat-embed-core</artifactId>
+            			<groupId>org.apache.tomcat.embed</groupId>
+       			</exclusion>
+        		<exclusion>
+            			<artifactId>tomcat-embed-websocket</artifactId>
+            			<groupId>org.apache.tomcat.embed</groupId>
+        		</exclusion>
+    		</exclusions>
+	</dependency>
+ 
+-Database -count the number of employees from the table:
+	select count(e_id) from employee;
+
+-Fetch the employees whose salary is between 50k to 100k:
+	select salary from employee where salary between 50000 and 100000;

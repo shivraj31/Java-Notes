@@ -1,0 +1,30 @@
+Company unknown
+ L1  technical 1hrs
+
+1. introduction with your skils 
+2.tell me about project 
+3.on which module you have worked.
+4.what are basic annotations.
+4.which annotation we at repository layer and service layer.
+5.@controller vs @restcontroll.
+6.dao layer.
+7.Java 8 features.
+8. explain functional interface.
+9.How we create thread.
+10.Exception and how to handle.
+11.throw vs throws.
+12.try{
+Int 5/0=0;
+}Catch(Exception e){
+Sop("inside catch block");
+}Catch(Arithmetic a){
+Sop("inside arithmetic block);
+}
+13. Common dependency used spring boot.
+14.types of build tool.
+15.Maven vs gradual.
+16. Exception hierarchy.
+17. collection vs collections.
+18. Program...
+String s="karan";
+Output:- k=1,a=2,r=1,n=1

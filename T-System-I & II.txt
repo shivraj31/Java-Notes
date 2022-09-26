@@ -1,0 +1,28 @@
+Company -T System
+Duration: 45 minutes
+1.introduced your self
+2.explain project and role and responsibilities
+3. Difference between final and finally
+4. Difference between throw and throws
+5.what is Exception
+6.how to create custom Exception
+7. difference between list and map
+8. Immutable class
+9.design custom immutable class
+10.annotations in spring boot
+11.how to componentScan annotations in your project 
+12. Lots of question in Rest API and repository
+13. Lots of question in postmon Tool
+14. Program to tell the output ( exception handling code)
+15. Program is given list(dog ,cat, elephant,cat,dog) using key as animals and value as count  to count the repeated animals in list
+
+
+Round 2:-manager
+Company :- T-Systems
+1.	Introduce urself
+2.	Explain project
+3.	Roles and responsibilities
+4.	Which server u used ,deployment of project
+5.	Agile-sprint, team size, demo call
+6.	Which problem faced in project how to solved
+7.	And company related questions like where it is located and its wfh or wfo

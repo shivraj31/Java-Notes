@@ -1,0 +1,24 @@
+Company Name-statusneo
+
+-introduction brif  about you and your project?
+-technology?
+-module you work on? 
+-trnasaction -payment getway which used(behind process)?
+-java8 fetures?
+-code for lambad expression?
+-how to optimised query or database data?
+-collection Question?
+-github?
+-how resolved conflict at the time of push code?
+-logger?
+-security or safty while downloading dependncy from internate?
+-authantication and authorised when login user? how you know it is register user?
+-cancle order or product than behind working?
+-singleton desigen pattern?
+-differnce Between normal class and restapi class?
+-spring ioc?
+-annotation used for what resion?
+-stream api?
+-Method references?
+-project live or not?
+-you  write unit test in your projec

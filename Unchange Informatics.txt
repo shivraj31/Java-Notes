@@ -1,0 +1,64 @@
+
+Company name : Nuchange Informatics.
+
+
+
+Q.1) 
+
+Employee
+employee_id | name
+1           | James
+2           | Roy
+
+Payment
+payment_id | employee_id | amount | datetime
+1     	   | 1           | 100    | 2020-01-01 9:00
+2          | 1           | 100    | 2020-02-01 9:00
+3          | 2           | 100    | 2020-01-01 10:00
+4          | 2           | 100    | 2020-02-01 10:00
+5          | 2          | 300     | 2020-03-01 10:00
+
+-> Write a query to print sum of payments received by each employee.
+ Output -> employee_name, amount
+James | 200
+Roy   | 500
+
+.......................................................................................................
+Q.2)
+
+Employee
+employee_id | name
+1      | James
+2      | Roy
+
+Payment
+payment_id | employee_id | amount | datetime
+1     | 1      | 100  | 2020-01-01 9:00
+2     | 1      | 100  | 2020-02-01 9:00
+3     | 2      | 100  | 2020-01-01 10:00
+4     | 2      | 100  | 2020-02-01 10:00
+5     | 2     | 300  | 2020-03-01 10:00
+
+Write a query to print sum of payments received by each employee.
+employee_name, amount
+James | 200
+Roy   | 500
+
+
+Q.3) Spring Actutor?
+
+Spring Boot actuator is a sub-project of spring boot application & it is used to monitor and manage spring boot application
+--------------------------------------------
+Q.4) What is port Number?
+
+Q.5) What is ipAddress?
+
+Q.6) How to replace Tomcate Server in springboot?
+-->Tomcat and jetty are most knows server in java.
+we need to add dependency into pom.xml file
+<artifactId> spring-boot-starter-jetty</artifactId>
+
+-------------------------------------
+
+Q.7) What is http?
+--> It means hypertext transfer protocol it is set of rules for transfering data over the web

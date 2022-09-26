@@ -1,0 +1,31 @@
+Onward Technologies, 30 mints duration Round 1
+Explain about yourself in brief, where is you company, how many employees,
+
+Core Java
+Basic oops concept
+What do we achieve by Abstraction(apart from defination)
+Inheritance(apart from defination)what do we achieve
+Encapslation(apart from defination)what do we achieve
+what is your role
+what module you worked on
+Java 8 features
+Java regular expression
+
+
+Programs
+Str =" Assignment " > Count no of Vowels
+
+    Java program to convert primitive into objects 
+Multiple ways
+
+
+String toUpperCase using stream api
+
+
+
+MYSQL
+How would you find the second highest salary from the table?
+(multiple ways)
+
+is it correct mysql query
+SELECT gender, AVG(age) FROM employee WHERE AVG(age)>30 GROUP BY gender

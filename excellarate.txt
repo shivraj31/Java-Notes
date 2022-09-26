@@ -1,0 +1,20 @@
+project
+core java,
+polymorphism,
+list
+hashmap
+jira
+annotations used in project
+features of java
+jdbc connection
+spring 
+spring framework and hibernate difference
+hibernate Jdbc connection
+microservices
+design pattern
+structure design pattern
+set
+real time scenario on list
+synchronisation
+multithreading how to acheive
+

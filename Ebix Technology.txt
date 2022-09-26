@@ -1,0 +1,12 @@
+Company :- Ebix Technology- Pune 
+
+1. Introduce yourself
+2. work experience
+3. Explain project
+4. Roles and responsibilities
+5. Explain all OPP's Concepts
+6. how to use polymorphism in two class
+7. Exception Handling 
+8. How to use exception in project
+9. Worked on servlet and jsp
+10. Agile Methodology

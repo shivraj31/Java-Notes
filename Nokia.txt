@@ -1,0 +1,48 @@
+Company: NOKIA. 
+L1 : 1hr
+Introduce your self, project info
+
+Role in current project
+Use case studies regarding project
+
+1.Design rest endpoints for me for Alarm
+ Whole design code
+Entity,Service,dao Controller
+Custom query in repo
+application.properties file
+
+2.Junit test for service layer impl above : done
+3.whats is mockito :
+	It is used to mock interfaces so that dummy functionality that can be added into mock interfaces that can be used for unit testing
+
+4.how to test repository layer 
+5.@repository purpose if not mention what happens:
+	 @repository and @service are components so creation of a bean, it wont be a problem
+
+6.explain MIcroservices architecture and brif implementation details
+7. Design patterns and code single tone:
+	design class which has only one object which provide global point of access.
+ 
+8. Transient explain
+9.static method purpose:
+	It is class method
+	It is belong to class rather than object of class
+	It get loaded into memory at the time of class loading by class loder
+	we can not call non static member from static member
+
+
+NOKIA:  L2
+1HR
+
+1.Docker
+2.how to implement Debugger
+Can design platform independent debugger? logic behind debuger
+3.whats is strong/weak references 
+4. Docker ?
+5.kafka
+6.conatainer kubernet/aws?
+7. Lambada expression pupose
+Write code java stream api
+Find string start with su using 
+8.count banry tree nodes recursively
+9. Factory design pattern how works and brief impl.

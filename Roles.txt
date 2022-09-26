@@ -1,0 +1,18 @@
+Roles and Responsibilities:
+
+o Requirement analyze, design, coding and testing etc.
+o Research alternatives and technologies
+o Presenting for architectural review
+o Designing the REST API.
+o Involved in knowledge sharing activities with team.
+o Preparing and maintaining entire documents for projects.
+o Preparing and producing releases of software components
+o Conducting software analysis, programming, testing, and debugging
+o Prepare the test plan and perform the manual testing.
+o Analyze the program to identify the code changes as per the business requirements.
+
+
+
+
+
+

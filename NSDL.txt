@@ -1,0 +1,23 @@
+NSDL
+explain  your project 
+project architecture 
+roles and responsibilities 
+challenges 
+how modules linked with each other in monolithic 
+how microservices communicate with each other
+how to implement rest api
+authentication and authorization 
+how to provide  diff db to diff modules
+can we create abstract  class object
+can we use constructor  in abstract  class 
+why we use constructor  in abstract  class
+how to provide  security  in spring  boot
+how to connect  with db in spring boot 
+custom exception 
+how you handle  exception  in your project 
+can we use try without catch
+how to disable specific configuration class
+can you disable  default web server in spring  boot
+if parent class throws file not found exception  and child class throw exception  what will happen
+can we use diff db for diff module in monolithic 
+arraylist and linkedlist diff

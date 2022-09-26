@@ -1,0 +1,13 @@
+Company Name= go payment 
+1.explain project
+2. On which module u worked dedicated
+3.how you validated data in registration process
+4.how to validate mobile no ..what will happen if I entered 10 times 1,will it accept
+5.how you handled exceptions in your project...specifically how to handle global exceptions 
+6.can we write try with finally..if yes then how exception will handled 
+7.what is purpose of writing multiple catch block after try
+8.what is session factory
+9.how to use namedQuery
+10.difference bet namedquery, native query and hql
+11.how to enable second level cache
+12.difference bet save and persist..which one is better

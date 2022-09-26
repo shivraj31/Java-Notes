@@ -1,0 +1,58 @@
+Company- Monster global group MNC
+
+1.Tell me about yourself, work experience
+Program 1-
+
+ A     ={1,2,3,4,5,6,7}      
+
+ B     ={3,6,7}
+
+ B is a sub tree of A or not?
+----------------------
+Program 2
+a=[-1 -2 3 -4 5 6 -7 8]
+
+
+ans= 12
+
+tell me the subaaray which has max sum and is contiguous
+
+2.Difference between Abstract Class vs Interface
+3.HashSet vs TreeSet
+			Hashset						TreeSet
+		1) Datastructure is hashtable			1) balanced tree
+		2) it implements clonable, serializable 	2) it impliments navigible set 
+		3) insertion order is not preserve		3) insertion order is in ascending manner
+		4) null insertion is possible			4) it is not possible if u try then occur run time exception null pointer exception
+		5) heterogenous is allowed			5) it is not allowed if u try then it occur classcastexaception
+
+4.What is Thread
+	It is smallest unit of programs
+
+5.How to create Thread in java
+	We can create thread by two ways extending Thread class and implementing Runnable interface
+	1) Extend Thread class: 
+		Thread class is provide method and constructor for perform the operations on thread. Thread class extends object class and impliments runnable interface.
+	2) Impliments Runnable interface:
+		It is implements on any class whose object is intended to executed by thread, It interface have only on method named run().
+
+
+6.What is Actuator in Spring
+	It is sub- project of spring boot application and used to monitor and manage sprin boot application
+
+7.Bean in Spring
+	It is an objects, which is created , managed and destroyed by the spring IOC container.
+
+8.Reflections in java
+	
+
+9.Cross Join (database)
+	Cross join keyword it is used to returns all the records from both tables.
+
+10.Index (database)
+	"Create index" used to create indexs, By using index we can retrive the data quickly than otherwise, user cant see index, it is use just for speedup/ searches
+
+11.Candidate key (database)
+	It key is used to identify the table rows and columns uniquly
+
+12.Post Construct method
